@@ -15,14 +15,14 @@ This app enables users to easily list, add, delete, and manage their daily tasks
 - CSS
 - JavaScript
 
-**How to Use**
+**<h2>How to Use</h2>**
 - Open the app in your browser
 - Enter a task in the input field
 - Click the add button to save the task
 - Manage your tasks easily
 
 
-**Project Status**
+**<h2>Project Status</h2>**
 ✅ Completed (Beginner Project)
 
 **Author**
